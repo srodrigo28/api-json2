@@ -1,0 +1,26 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "nome": "mario"
+    },
+    {
+      "id": "2",
+      "nome": "alex"
+    },
+    {
+      "id": "bb1d",
+      "nome": "maria 2"
+    }
+  ],
+  "produtos": [
+    {
+      "id": "1",
+      "nome": "tv"
+    },
+    {
+      "id": "2",
+      "nome": "som"
+    }
+  ]
+}
